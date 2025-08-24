@@ -1,0 +1,96 @@
+M:\פרויקט פריש\DotNet2025_0892_1825\bin\DalTest.exe
+M:\פרויקט פריש\DotNet2025_0892_1825\bin\DalTest.deps.json
+M:\פרויקט פריש\DotNet2025_0892_1825\bin\DalTest.runtimeconfig.json
+M:\פרויקט פריש\DotNet2025_0892_1825\bin\DalTest.dll
+M:\פרויקט פריש\DotNet2025_0892_1825\bin\DalTest.pdb
+M:\פרויקט פריש\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+M:\פרויקט פריש\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+M:\פרויקט פריש\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+M:\פרויקט פריש\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+M:\פרויקט פריש\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+M:\פרויקט פריש\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.csproj.CopyComplete
+M:\פרויקט פריש\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.dll
+M:\פרויקט פריש\DotNet2025_0892_1825\DalTest\obj\Debug\refint\DalTest.dll
+M:\פרויקט פריש\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.pdb
+M:\פרויקט פריש\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+M:\פרויקט פריש\DotNet2025_0892_1825\DalTest\obj\Debug\ref\DalTest.dll
+T:\Seminar\Handasaim\יד\מהט\פרויקט פריש גילי ותהילה\פרויקט פריש\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+T:\Seminar\Handasaim\יד\מהט\פרויקט פריש גילי ותהילה\פרויקט פריש\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+T:\Seminar\Handasaim\יד\מהט\פרויקט פריש גילי ותהילה\פרויקט פריש\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+T:\Seminar\Handasaim\יד\מהט\פרויקט פריש גילי ותהילה\פרויקט פריש\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+T:\Seminar\Handasaim\יד\מהט\פרויקט פריש גילי ותהילה\פרויקט פריש\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+T:\Seminar\Handasaim\יד\מהט\פרויקט פריש גילי ותהילה\פרויקט פריש\DotNet2025_0892_1825\bin\DalTest.exe
+T:\Seminar\Handasaim\יד\מהט\פרויקט פריש גילי ותהילה\פרויקט פריש\DotNet2025_0892_1825\bin\DalTest.deps.json
+T:\Seminar\Handasaim\יד\מהט\פרויקט פריש גילי ותהילה\פרויקט פריש\DotNet2025_0892_1825\bin\DalTest.runtimeconfig.json
+T:\Seminar\Handasaim\יד\מהט\פרויקט פריש גילי ותהילה\פרויקט פריש\DotNet2025_0892_1825\bin\DalTest.dll
+T:\Seminar\Handasaim\יד\מהט\פרויקט פריש גילי ותהילה\פרויקט פריש\DotNet2025_0892_1825\bin\DalTest.pdb
+T:\Seminar\Handasaim\יד\מהט\פרויקט פריש גילי ותהילה\פרויקט פריש\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.csproj.Up2Date
+T:\Seminar\Handasaim\יד\מהט\פרויקט פריש גילי ותהילה\פרויקט פריש\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.dll
+T:\Seminar\Handasaim\יד\מהט\פרויקט פריש גילי ותהילה\פרויקט פריש\DotNet2025_0892_1825\DalTest\obj\Debug\refint\DalTest.dll
+T:\Seminar\Handasaim\יד\מהט\פרויקט פריש גילי ותהילה\פרויקט פריש\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.pdb
+T:\Seminar\Handasaim\יד\מהט\פרויקט פריש גילי ותהילה\פרויקט פריש\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+T:\Seminar\Handasaim\יד\מהט\פרויקט פריש גילי ותהילה\פרויקט פריש\DotNet2025_0892_1825\DalTest\obj\Debug\ref\DalTest.dll
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\bin\DalTest.exe
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\bin\DalTest.deps.json
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\bin\DalTest.runtimeconfig.json
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\bin\DalTest.dll
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\bin\DalTest.pdb
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.csproj.CopyComplete
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.dll
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalTest\obj\Debug\refint\DalTest.dll
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.pdb
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalTest\obj\Debug\ref\DalTest.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalTest\obj\Debug\refint\DalTest.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.pdb
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\bin\DalTest.exe
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\bin\DalTest.deps.json
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\bin\DalTest.runtimeconfig.json
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\bin\DalTest.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\bin\DalTest.pdb
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.csproj.Up2Date
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalTest\obj\Debug\ref\DalTest.dll
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\bin\DalTest.exe
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\bin\DalTest.deps.json
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\bin\DalTest.runtimeconfig.json
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\bin\DalTest.dll
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\bin\DalTest.pdb
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.csproj.Up2Date
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.dll
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\DalTest\obj\Debug\refint\DalTest.dll
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.pdb
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\DalTest\obj\Debug\ref\DalTest.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\bin\DalTest.exe
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\bin\DalTest.deps.json
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\bin\DalTest.runtimeconfig.json
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\bin\DalTest.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\bin\DalTest.pdb
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.csproj.Up2Date
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\DalTest\obj\Debug\refint\DalTest.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.pdb
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\DalTest\obj\Debug\ref\DalTest.dll

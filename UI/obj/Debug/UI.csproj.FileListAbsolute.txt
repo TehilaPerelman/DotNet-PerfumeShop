@@ -1,0 +1,50 @@
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\bin\UI.exe
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\bin\UI.deps.json
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\bin\UI.runtimeconfig.json
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\bin\UI.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\bin\UI.pdb
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\UI\obj\Debug\UI.banker.resources
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\UI\obj\Debug\UI.customers.resources
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\UI\obj\Debug\UI.Form1.resources
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\UI\obj\Debug\UI.manager.resources
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\UI\obj\Debug\UI.NewOrder.resources
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\UI\obj\Debug\UI.products.resources
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\UI\obj\Debug\UI.Properties.Resources.resources
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\UI\obj\Debug\UI.saleMenu.resources
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\UI\obj\Debug\UI.csproj.GenerateResource.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\UI\obj\Debug\UI.AssemblyInfo.cs
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\UI\obj\Debug\UI.csproj.Up2Date
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\UI\obj\Debug\UI.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\UI\obj\Debug\refint\UI.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\UI\obj\Debug\UI.pdb
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\UI\obj\Debug\UI.genruntimeconfig.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\UI\obj\Debug\ref\UI.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\bin\UI.exe
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\bin\UI.deps.json
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\bin\UI.runtimeconfig.json
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\bin\UI.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\bin\UI.pdb
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\UI\obj\Debug\UI.banker.resources
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\UI\obj\Debug\UI.Client.resources
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\UI\obj\Debug\UI.Form1.resources
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\UI\obj\Debug\UI.manager.resources
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\UI\obj\Debug\UI.Order.resources
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\UI\obj\Debug\UI.products.resources
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\UI\obj\Debug\UI.Properties.Resources.resources
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\UI\obj\Debug\UI.Sale.resources
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\UI\obj\Debug\UI.csproj.GenerateResource.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\UI\obj\Debug\UI.AssemblyInfo.cs
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\UI\obj\Debug\UI.csproj.Up2Date
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\UI\obj\Debug\UI.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\UI\obj\Debug\refint\UI.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\UI\obj\Debug\UI.pdb
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\UI\obj\Debug\UI.genruntimeconfig.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\UI\obj\Debug\ref\UI.dll

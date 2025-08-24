@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<client>
+  <client>
+    <clientID>678</clientID>
+    <clientName>shira</clientName>
+    <Address> Yehoda Hanasi 15</Address>
+    <Phone>054-2526632</Phone>
+  </client>
+  <client>
+    <clientID>1234546</clientID>
+    <clientName>sara</clientName>
+    <Address>blabla</Address>
+    <Phone>0236589658</Phone>
+  </client>
+  <client>
+    <clientID>748563624</clientID>
+    <clientName>חיה</clientName>
+    <Address>ק'עיאחגדכ</Address>
+    <Phone>584768201</Phone>
+  </client>
+  <client>
+    <clientID>7458210</clientID>
+    <clientName>בתיה</clientName>
+    <Address>קגארטכגעי</Address>
+    <Phone>895643210</Phone>
+  </client>
+</client>

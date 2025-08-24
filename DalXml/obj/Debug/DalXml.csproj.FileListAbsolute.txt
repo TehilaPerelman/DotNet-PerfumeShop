@@ -1,0 +1,65 @@
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\bin\DalXml.deps.json
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\bin\DalXml.dll
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\bin\DalXml.pdb
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalXml\obj\Debug\DalXml.csproj.CopyComplete
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalXml\obj\Debug\DalXml.dll
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalXml\obj\Debug\refint\DalXml.dll
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalXml\obj\Debug\DalXml.pdb
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalXml\obj\Debug\ref\DalXml.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalXml\obj\Debug\DalXml.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalXml\obj\Debug\refint\DalXml.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalXml\obj\Debug\DalXml.pdb
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\bin\DalXml.deps.json
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\bin\DalXml.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\bin\DalXml.pdb
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalXml\obj\Debug\DalXml.csproj.Up2Date
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalXml\obj\Debug\ref\DalXml.dll
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\bin\DalXml.deps.json
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\bin\DalXml.dll
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\bin\DalXml.pdb
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\DalXml\obj\Debug\DalXml.csproj.Up2Date
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\DalXml\obj\Debug\DalXml.dll
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\DalXml\obj\Debug\refint\DalXml.dll
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\DalXml\obj\Debug\DalXml.pdb
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\DalXml\obj\Debug\ref\DalXml.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\bin\DalXml.deps.json
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\bin\DalXml.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\bin\DalXml.pdb
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\DalXml\obj\Debug\DalXml.csproj.Up2Date
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\DalXml\obj\Debug\DalXml.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\DalXml\obj\Debug\refint\DalXml.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\DalXml\obj\Debug\DalXml.pdb
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\DalXml\obj\Debug\ref\DalXml.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\bin\DalXml.deps.json
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\bin\DalXml.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\bin\DalXml.pdb
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\DalXml\obj\Debug\DalXml.csproj.Up2Date
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\DalXml\obj\Debug\DalXml.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\DalXml\obj\Debug\refint\DalXml.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\DalXml\obj\Debug\DalXml.pdb
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\DalXml\obj\Debug\ref\DalXml.dll

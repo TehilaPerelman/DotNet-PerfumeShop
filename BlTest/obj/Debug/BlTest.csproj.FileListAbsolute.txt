@@ -1,0 +1,48 @@
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\BlTest\obj\Debug\BlTest.csproj.AssemblyReference.cache
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\BlTest\obj\Debug\BlTest.GeneratedMSBuildEditorConfig.editorconfig
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\BlTest\obj\Debug\BlTest.AssemblyInfoInputs.cache
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\BlTest\obj\Debug\BlTest.AssemblyInfo.cs
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\BlTest\obj\Debug\BlTest.csproj.CoreCompileInputs.cache
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\bin\BlTest.exe
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\bin\BlTest.deps.json
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\bin\BlTest.runtimeconfig.json
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\bin\BlTest.dll
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\bin\BlTest.pdb
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\BlTest\obj\Debug\BlTest.csproj.CopyComplete
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\BlTest\obj\Debug\BlTest.dll
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\BlTest\obj\Debug\refint\BlTest.dll
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\BlTest\obj\Debug\BlTest.pdb
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\BlTest\obj\Debug\BlTest.genruntimeconfig.cache
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\BlTest\obj\Debug\ref\BlTest.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\bin\BlTest.exe
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\bin\BlTest.deps.json
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\bin\BlTest.runtimeconfig.json
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\bin\BlTest.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\bin\BlTest.pdb
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\BlTest\obj\Debug\BlTest.csproj.AssemblyReference.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\BlTest\obj\Debug\BlTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\BlTest\obj\Debug\BlTest.AssemblyInfoInputs.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\BlTest\obj\Debug\BlTest.AssemblyInfo.cs
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\BlTest\obj\Debug\BlTest.csproj.CoreCompileInputs.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\BlTest\obj\Debug\BlTest.csproj.Up2Date
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\BlTest\obj\Debug\BlTest.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\BlTest\obj\Debug\refint\BlTest.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\BlTest\obj\Debug\BlTest.pdb
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\BlTest\obj\Debug\BlTest.genruntimeconfig.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\BlTest\obj\Debug\ref\BlTest.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\bin\BlTest.exe
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\bin\BlTest.deps.json
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\bin\BlTest.runtimeconfig.json
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\bin\BlTest.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\bin\BlTest.pdb
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\BlTest\obj\Debug\BlTest.csproj.AssemblyReference.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\BlTest\obj\Debug\BlTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\BlTest\obj\Debug\BlTest.AssemblyInfoInputs.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\BlTest\obj\Debug\BlTest.AssemblyInfo.cs
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\BlTest\obj\Debug\BlTest.csproj.CoreCompileInputs.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\BlTest\obj\Debug\BlTest.csproj.Up2Date
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\BlTest\obj\Debug\BlTest.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\BlTest\obj\Debug\refint\BlTest.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\BlTest\obj\Debug\BlTest.pdb
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\BlTest\obj\Debug\BlTest.genruntimeconfig.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\BlTest\obj\Debug\ref\BlTest.dll

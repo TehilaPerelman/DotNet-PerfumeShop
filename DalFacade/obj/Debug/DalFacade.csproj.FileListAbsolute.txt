@@ -1,0 +1,79 @@
+M:\פרויקט פריש\DotNet2025_0892_1825\bin\DalFacade.deps.json
+M:\פרויקט פריש\DotNet2025_0892_1825\bin\DalFacade.dll
+M:\פרויקט פריש\DotNet2025_0892_1825\bin\DalFacade.pdb
+M:\פרויקט פריש\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+M:\פרויקט פריש\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+M:\פרויקט פריש\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+M:\פרויקט פריש\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+M:\פרויקט פריש\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+M:\פרויקט פריש\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.dll
+M:\פרויקט פריש\DotNet2025_0892_1825\DalFacade\obj\Debug\refint\DalFacade.dll
+M:\פרויקט פריש\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.pdb
+M:\פרויקט פריש\DotNet2025_0892_1825\DalFacade\obj\Debug\ref\DalFacade.dll
+T:\Seminar\Handasaim\יד\מהט\פרויקט פריש גילי ותהילה\פרויקט פריש\DotNet2025_0892_1825\bin\DalFacade.deps.json
+T:\Seminar\Handasaim\יד\מהט\פרויקט פריש גילי ותהילה\פרויקט פריש\DotNet2025_0892_1825\bin\DalFacade.dll
+T:\Seminar\Handasaim\יד\מהט\פרויקט פריש גילי ותהילה\פרויקט פריש\DotNet2025_0892_1825\bin\DalFacade.pdb
+T:\Seminar\Handasaim\יד\מהט\פרויקט פריש גילי ותהילה\פרויקט פריש\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+T:\Seminar\Handasaim\יד\מהט\פרויקט פריש גילי ותהילה\פרויקט פריש\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+T:\Seminar\Handasaim\יד\מהט\פרויקט פריש גילי ותהילה\פרויקט פריש\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+T:\Seminar\Handasaim\יד\מהט\פרויקט פריש גילי ותהילה\פרויקט פריש\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+T:\Seminar\Handasaim\יד\מהט\פרויקט פריש גילי ותהילה\פרויקט פריש\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.dll
+T:\Seminar\Handasaim\יד\מהט\פרויקט פריש גילי ותהילה\פרויקט פריש\DotNet2025_0892_1825\DalFacade\obj\Debug\refint\DalFacade.dll
+T:\Seminar\Handasaim\יד\מהט\פרויקט פריש גילי ותהילה\פרויקט פריש\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.pdb
+T:\Seminar\Handasaim\יד\מהט\פרויקט פריש גילי ותהילה\פרויקט פריש\DotNet2025_0892_1825\DalFacade\obj\Debug\ref\DalFacade.dll
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\bin\DalFacade.deps.json
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\bin\DalFacade.dll
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\bin\DalFacade.pdb
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.dll
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalFacade\obj\Debug\refint\DalFacade.dll
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.pdb
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalFacade\obj\Debug\ref\DalFacade.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\bin\DalFacade.deps.json
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\bin\DalFacade.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\bin\DalFacade.pdb
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalFacade\obj\Debug\refint\DalFacade.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.pdb
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\DalFacade\obj\Debug\ref\DalFacade.dll
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\bin\DalFacade.deps.json
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\bin\DalFacade.dll
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\bin\DalFacade.pdb
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.dll
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\DalFacade\obj\Debug\refint\DalFacade.dll
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.pdb
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\DalFacade\obj\Debug\ref\DalFacade.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\bin\DalFacade.deps.json
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\bin\DalFacade.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\bin\DalFacade.pdb
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\DalFacade\obj\Debug\refint\DalFacade.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.pdb
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\DalFacade\obj\Debug\ref\DalFacade.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\bin\DalFacade.deps.json
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\bin\DalFacade.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\bin\DalFacade.pdb
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\DalFacade\obj\Debug\refint\DalFacade.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\DalFacade\obj\Debug\DalFacade.pdb
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\DalFacade\obj\Debug\ref\DalFacade.dll

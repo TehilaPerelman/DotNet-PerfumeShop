@@ -1,0 +1,67 @@
+T:\Seminar\Handasaim\יד\מהט\פרויקט פריש גילי ותהילה\פרויקט פריש\DotNet2025_0892_1825\bin\Tools.deps.json
+T:\Seminar\Handasaim\יד\מהט\פרויקט פריש גילי ותהילה\פרויקט פריש\DotNet2025_0892_1825\bin\Tools.dll
+T:\Seminar\Handasaim\יד\מהט\פרויקט פריש גילי ותהילה\פרויקט פריש\DotNet2025_0892_1825\bin\Tools.pdb
+T:\Seminar\Handasaim\יד\מהט\פרויקט פריש גילי ותהילה\פרויקט פריש\DotNet2025_0892_1825\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+T:\Seminar\Handasaim\יד\מהט\פרויקט פריש גילי ותהילה\פרויקט פריש\DotNet2025_0892_1825\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+T:\Seminar\Handasaim\יד\מהט\פרויקט פריש גילי ותהילה\פרויקט פריש\DotNet2025_0892_1825\Tools\obj\Debug\Tools.AssemblyInfo.cs
+T:\Seminar\Handasaim\יד\מהט\פרויקט פריש גילי ותהילה\פרויקט פריש\DotNet2025_0892_1825\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+T:\Seminar\Handasaim\יד\מהט\פרויקט פריש גילי ותהילה\פרויקט פריש\DotNet2025_0892_1825\Tools\obj\Debug\Tools.dll
+T:\Seminar\Handasaim\יד\מהט\פרויקט פריש גילי ותהילה\פרויקט פריש\DotNet2025_0892_1825\Tools\obj\Debug\refint\Tools.dll
+T:\Seminar\Handasaim\יד\מהט\פרויקט פריש גילי ותהילה\פרויקט פריש\DotNet2025_0892_1825\Tools\obj\Debug\Tools.pdb
+T:\Seminar\Handasaim\יד\מהט\פרויקט פריש גילי ותהילה\פרויקט פריש\DotNet2025_0892_1825\Tools\obj\Debug\ref\Tools.dll
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\bin\Tools.deps.json
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\bin\Tools.dll
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\bin\Tools.pdb
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\Tools\obj\Debug\Tools.AssemblyInfo.cs
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\Tools\obj\Debug\Tools.dll
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\Tools\obj\Debug\refint\Tools.dll
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\Tools\obj\Debug\Tools.pdb
+M:\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\Tools\obj\Debug\ref\Tools.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\bin\Tools.deps.json
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\bin\Tools.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\bin\Tools.pdb
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\Tools\obj\Debug\Tools.AssemblyInfo.cs
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\Tools\obj\Debug\Tools.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\Tools\obj\Debug\refint\Tools.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\Tools\obj\Debug\Tools.pdb
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט פריש אמצע שלב 5\DotNet2025_0892_1825\Tools\obj\Debug\ref\Tools.dll
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\bin\Tools.deps.json
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\bin\Tools.dll
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\bin\Tools.pdb
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\Tools\obj\Debug\Tools.AssemblyInfo.cs
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\Tools\obj\Debug\Tools.dll
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\Tools\obj\Debug\refint\Tools.dll
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\Tools\obj\Debug\Tools.pdb
+C:\Users\user\Desktop\פרויקט פריש אמצע שלב 5\פרויקט פריש אמצע שלב 5\פרויקט שלב 6\DotNet2025_0892_1825\Tools\obj\Debug\ref\Tools.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\bin\Tools.deps.json
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\bin\Tools.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\bin\Tools.pdb
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\Tools\obj\Debug\Tools.AssemblyInfo.cs
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\Tools\obj\Debug\Tools.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\Tools\obj\Debug\refint\Tools.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\Tools\obj\Debug\Tools.pdb
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\פרויקט שלב 6 מתהילה\פרויקט שלב 6\DotNet2025_0892_1825\Tools\obj\Debug\ref\Tools.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\bin\Tools.deps.json
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\bin\Tools.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\bin\Tools.pdb
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\Tools\obj\Debug\Tools.AssemblyInfo.cs
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\Tools\obj\Debug\Tools.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\Tools\obj\Debug\refint\Tools.dll
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\Tools\obj\Debug\Tools.pdb
+D:\Users\1\Desktop\שנה ב לימודים\כיתה\ושלנו הכי עדכני הפרויקט של יעלי רובין\הפרויקט הסופיי זהווווווו\DotNet2025_0892_1825\Tools\obj\Debug\ref\Tools.dll
